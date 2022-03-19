@@ -29,3 +29,4 @@ study python by reading &lt;introduce python> & \<notebook data analysis\>
 3. 包和模块 pypackage
 4. 类 class
 5. 字符串编码 unicode_string
+6. 数据文件存储与读取 datainfiles
